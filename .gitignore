@@ -1,0 +1,8 @@
+# Arquivos NÃO usados pelo site publicado (index.html já tem os dados embutidos)
+dados.json
+_check.js
+
+# Lixo de SO
+Thumbs.db
+.DS_Store
+desktop.ini

@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Bem-vindo ao Blog & Opinião",
+    "data": "13/06/2026",
+    "autor": "Rafael Carneiro",
+    "youtube": "",
+    "texto": "Aqui vou publicar análises em texto e vídeo sobre a Copa do Mundo 2026, cruzando os dados da plataforma com leitura tática.\n\nPara adicionar um post: edite o arquivo site/posts.json (este aqui) e rode o gerador novamente. Cada post aceita: titulo, data, autor, texto e (opcional) o link/ID de um vídeo do YouTube."
+  },
+  {
+    "titulo": "Exemplo de post com vídeo",
+    "data": "13/06/2026",
+    "autor": "Rafael Carneiro",
+    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "texto": "É só colar o link do YouTube no campo \"youtube\" que o vídeo aparece incorporado aqui. Troque este exemplo pela sua análise."
+  }
+]
