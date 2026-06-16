@@ -2,6 +2,11 @@
 dados.json
 _check.js
 
+# Imagens pesadas não usadas pelo site (mantidas só localmente)
+*.avif
+taça do mundo.jpg
+estadio.avif
+
 # Lixo de SO
 Thumbs.db
 .DS_Store
