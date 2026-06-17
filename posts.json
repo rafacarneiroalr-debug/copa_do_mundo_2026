@@ -4,12 +4,6 @@
     "data": "17/06/2026",
     "autor": "Rafael Carneiro",
     "youtube": "https://www.youtube.com/watch?v=_pC-6COz48s",
-    "resumo": "O vídeo por trás desta plataforma: como montei o pipeline que transforma os relatórios oficiais da FIFA (e os dados do FotMob) em métricas e insights. Dá o play 👇"
-  },
-  {
-    "titulo": "Bem-vindo ao Blog",
-    "data": "17/06/2026",
-    "autor": "Rafael Carneiro",
-    "texto": "Aqui vão sair análises da Copa do Mundo 2026 — em texto, relatórios e vídeo — cruzando os dados da plataforma com leitura tática.\n\nEm breve, relatórios rodada a rodada."
+    "resumo": "O vídeo por trás desta plataforma: como montei o pipeline que transforma os relatórios oficiais da FIFA (e os dados do FotMob) em métricas e insights."
   }
 ]
