@@ -1,16 +1,14 @@
 [
   {
-    "titulo": "Bem-vindo ao Blog & Opinião",
-    "data": "13/06/2026",
+    "titulo": "Bem-vindo ao Blog",
+    "data": "17/06/2026",
     "autor": "Rafael Carneiro",
-    "youtube": "",
-    "texto": "Aqui vou publicar análises em texto e vídeo sobre a Copa do Mundo 2026, cruzando os dados da plataforma com leitura tática.\n\nPara adicionar um post: edite o arquivo site/posts.json (este aqui) e rode o gerador novamente. Cada post aceita: titulo, data, autor, texto e (opcional) o link/ID de um vídeo do YouTube."
+    "texto": "Aqui vão sair análises da Copa do Mundo 2026 — em texto, relatórios e vídeo — cruzando os dados da plataforma com leitura tática.\n\nEm breve, relatórios rodada a rodada."
   },
   {
-    "titulo": "Exemplo de post com vídeo",
-    "data": "13/06/2026",
+    "titulo": "Como os posts funcionam (exemplo)",
+    "data": "17/06/2026",
     "autor": "Rafael Carneiro",
-    "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "texto": "É só colar o link do YouTube no campo \"youtube\" que o vídeo aparece incorporado aqui. Troque este exemplo pela sua análise."
+    "html": "<p>Cada post aceita <b>texto simples</b>, <b>HTML</b> (para relatórios completos), uma <b>capa</b>, um <b>vídeo do YouTube</b> (capa clicável) e um <b>link</b> de relatório externo.</p><h3>Exemplo de tabela</h3><table><thead><tr><th>Seleção</th><th>xG (FotMob)</th></tr></thead><tbody><tr><td>Alemanha</td><td>4,2</td></tr><tr><td>Brasil</td><td>2,1</td></tr></tbody></table><p>Tudo isso renderiza direto aqui no blog.</p>"
   }
 ]
