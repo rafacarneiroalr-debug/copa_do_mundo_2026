@@ -1,14 +1,15 @@
 [
   {
+    "titulo": "Criei um Sistema para Analisar Todos os Jogos da Copa 2026",
+    "data": "17/06/2026",
+    "autor": "Rafael Carneiro",
+    "youtube": "https://www.youtube.com/watch?v=_pC-6COz48s",
+    "resumo": "O vídeo por trás desta plataforma: como montei o pipeline que transforma os relatórios oficiais da FIFA (e os dados do FotMob) em métricas e insights. Dá o play 👇"
+  },
+  {
     "titulo": "Bem-vindo ao Blog",
     "data": "17/06/2026",
     "autor": "Rafael Carneiro",
     "texto": "Aqui vão sair análises da Copa do Mundo 2026 — em texto, relatórios e vídeo — cruzando os dados da plataforma com leitura tática.\n\nEm breve, relatórios rodada a rodada."
-  },
-  {
-    "titulo": "Como os posts funcionam (exemplo)",
-    "data": "17/06/2026",
-    "autor": "Rafael Carneiro",
-    "html": "<p>Cada post aceita <b>texto simples</b>, <b>HTML</b> (para relatórios completos), uma <b>capa</b>, um <b>vídeo do YouTube</b> (capa clicável) e um <b>link</b> de relatório externo.</p><h3>Exemplo de tabela</h3><table><thead><tr><th>Seleção</th><th>xG (FotMob)</th></tr></thead><tbody><tr><td>Alemanha</td><td>4,2</td></tr><tr><td>Brasil</td><td>2,1</td></tr></tbody></table><p>Tudo isso renderiza direto aqui no blog.</p>"
   }
 ]
