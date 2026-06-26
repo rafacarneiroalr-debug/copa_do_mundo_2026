@@ -11,3 +11,10 @@ estadio.avif
 Thumbs.db
 .DS_Store
 desktop.ini
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
